@@ -1,10 +1,10 @@
 {
   "name": "angular-slick-carousel",
-  "version": "3.1.7",
+  "version": "3.1.8",
   "main": "dist/angular-slick.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/devmark/angular-slick-carousel.git"
+    "url": "https://github.com/timelight/angular-slick-carousel.git"
   },
   "author": "DevMark",
   "license": "MIT",
