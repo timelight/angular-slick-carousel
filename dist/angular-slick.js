@@ -2,7 +2,7 @@
  * angular-slick-carousel
  * DevMark <hc.devmark@gmail.com>
  * https://github.com/devmark/angular-slick-carousel
- * Version: 3.1.7 - 2016-08-04T06:17:55.528Z
+ * Version: 3.1.7 - 2018-04-08T03:34:23.269Z
  * License: MIT
  */
 
@@ -128,7 +128,7 @@ angular
           };
 
           destroy = function () {
-            var slickness = $(element); // angular.element(element);
+            var slickness = $(element); // angular.element(element); 123
             if (slickness.hasClass('slick-initialized')) {
               slickness.remove('slick-list');
               slickness.slick('unslick');
@@ -140,7 +140,7 @@ angular
           init = function () {
             initOptions();
 
-            var slickness = $(element); //angular.element(element);
+            var slickness = $(element); // angular.element(element); 123
 
             if (angular.element(element).hasClass('slick-initialized')) {
               if (options.enabled) {

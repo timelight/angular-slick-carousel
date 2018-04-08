@@ -8,8 +8,7 @@
   },
   "author": "DevMark",
   "license": "MIT",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "gulp": "~3.9.0",
     "grunt": "*",
